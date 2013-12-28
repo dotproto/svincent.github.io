@@ -1,0 +1,50 @@
+/* font rotation */
+@-webkit-keyframes fontColorRotation {
+  from { color: hsla(0, 100%, 50%, .05); }
+  50% { color: hsla(180, 100%, 50%, .05); }
+  to { color: hsla(360, 100%, 50%, .05); }
+}
+
+@-moz-keyframes fontColorRotation {
+  from { color: hsla(0, 100%, 50%, .05); }
+  50% { color: hsla(180, 100%, 50%, .05); }
+  to { color: hsla(360, 100%, 50%, .05); }
+}
+
+
+@-o-keyframes fontColorRotation {
+  from { color: hsla(0, 100%, 50%, .05); }
+  50% { color: hsla(180, 100%, 50%, .05); }
+  to { color: hsla(360, 100%, 50%, .05); }
+}
+
+@keyframes fontColorRotation {
+  from { color: hsla(0, 100%, 50%, .05); }
+  50% { color: hsla(180, 100%, 50%, .05); }
+  to { color: hsla(360, 100%, 50%, .05); }
+}
+
+/* background rotation */
+@-webkit-keyframes bgColorRotation {
+  from { background-color: hsla(0, 100%, 50%, .05); }
+  50% { background-color: hsla(180, 100%, 50%, .05); }
+  to { background-color: hsla(360, 100%, 50%, .05); }
+}
+
+@-moz-keyframes bgColorRotation {
+  from { background-color: hsla(0, 100%, 50%, .05); }
+  50% { background-color: hsla(180, 100%, 50%, .05); }
+  to { background-color: hsla(360, 100%, 50%, .05); }
+}
+
+@-o-keyframes bgColorRotation {
+  from { background-color: hsla(0, 100%, 50%, .05); }
+  50% { background-color: hsla(180, 100%, 50%, .05); }
+  to { background-color: hsla(360, 100%, 50%, .05); }
+}
+
+@keyframes bgColorRotation {
+  from { background-color: hsla(0, 100%, 50%, .05); }
+  50% { background-color: hsla(180, 100%, 50%, .05); }
+  to { background-color: hsla(360, 100%, 50%, .05); }
+}
