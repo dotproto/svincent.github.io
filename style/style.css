@@ -15,15 +15,18 @@ a:visited {
     color: #342D7E; /*blue whale*/
 }
 
+.bg-wrap {
+  position: fixed;
+}
 .bg-wrap,.bg-color{
     height: 100%;
     width: 100%;
-    position: absolute;
     overflow: hidden;
     background: url('../images/ticks.png') 50% repeat;
     z-index: -1;
 }
 .bg-color{
+    position: absolute;
     background: hsla(0, 100%, 50%, 0.05);
     /*-webkit-transition: 1s linear;*/
 
