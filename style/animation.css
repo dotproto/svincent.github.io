@@ -1,50 +1,114 @@
 /* font rotation */
 @-webkit-keyframes fontColorRotation {
   from { color: hsla(0, 100%, 50%, .05); }
-  50% { color: hsla(180, 100%, 50%, .05); }
-  to { color: hsla(360, 100%, 50%, .05); }
+  10% {  color: hsla(36, 100%, 50%, .05); }
+  20% {  color: hsla(72, 100%, 50%, .05); }
+  30% {  color: hsla(108, 100%, 50%, .05); }
+  40% {  color: hsla(144, 100%, 50%, .05); }
+  50% {  color: hsla(180, 100%, 50%, .05); }
+  60% {  color: hsla(216, 100%, 50%, .05); }
+  70% {  color: hsla(252, 100%, 50%, .05); }
+  80% {  color: hsla(288, 100%, 50%, .05); }
+  90% {  color: hsla(324, 100%, 50%, .05); }
+  to {   color: hsla(360, 100%, 50%, .05); }
 }
 
 @-moz-keyframes fontColorRotation {
   from { color: hsla(0, 100%, 50%, .05); }
-  50% { color: hsla(180, 100%, 50%, .05); }
-  to { color: hsla(360, 100%, 50%, .05); }
+  10% {  color: hsla(36, 100%, 50%, .05); }
+  20% {  color: hsla(72, 100%, 50%, .05); }
+  30% {  color: hsla(108, 100%, 50%, .05); }
+  40% {  color: hsla(144, 100%, 50%, .05); }
+  50% {  color: hsla(180, 100%, 50%, .05); }
+  60% {  color: hsla(216, 100%, 50%, .05); }
+  70% {  color: hsla(252, 100%, 50%, .05); }
+  80% {  color: hsla(288, 100%, 50%, .05); }
+  90% {  color: hsla(324, 100%, 50%, .05); }
+  to {   color: hsla(360, 100%, 50%, .05); }
 }
 
 
 @-o-keyframes fontColorRotation {
   from { color: hsla(0, 100%, 50%, .05); }
-  50% { color: hsla(180, 100%, 50%, .05); }
-  to { color: hsla(360, 100%, 50%, .05); }
+  10% {  color: hsla(36, 100%, 50%, .05); }
+  20% {  color: hsla(72, 100%, 50%, .05); }
+  30% {  color: hsla(108, 100%, 50%, .05); }
+  40% {  color: hsla(144, 100%, 50%, .05); }
+  50% {  color: hsla(180, 100%, 50%, .05); }
+  60% {  color: hsla(216, 100%, 50%, .05); }
+  70% {  color: hsla(252, 100%, 50%, .05); }
+  80% {  color: hsla(288, 100%, 50%, .05); }
+  90% {  color: hsla(324, 100%, 50%, .05); }
+  to {   color: hsla(360, 100%, 50%, .05); }
 }
 
 @keyframes fontColorRotation {
   from { color: hsla(0, 100%, 50%, .05); }
-  50% { color: hsla(180, 100%, 50%, .05); }
-  to { color: hsla(360, 100%, 50%, .05); }
+  10% {  color: hsla(36, 100%, 50%, .05); }
+  20% {  color: hsla(72, 100%, 50%, .05); }
+  30% {  color: hsla(108, 100%, 50%, .05); }
+  40% {  color: hsla(144, 100%, 50%, .05); }
+  50% {  color: hsla(180, 100%, 50%, .05); }
+  60% {  color: hsla(216, 100%, 50%, .05); }
+  70% {  color: hsla(252, 100%, 50%, .05); }
+  80% {  color: hsla(288, 100%, 50%, .05); }
+  90% {  color: hsla(324, 100%, 50%, .05); }
+  to {   color: hsla(360, 100%, 50%, .05); }
 }
 
 /* background rotation */
 @-webkit-keyframes bgColorRotation {
   from { background-color: hsla(0, 100%, 50%, .05); }
-  50% { background-color: hsla(180, 100%, 50%, .05); }
-  to { background-color: hsla(360, 100%, 50%, .05); }
+  10% {  background-color: hsla(36, 100%, 50%, .05); }
+  20% {  background-color: hsla(72, 100%, 50%, .05); }
+  30% {  background-color: hsla(108, 100%, 50%, .05); }
+  40% {  background-color: hsla(144, 100%, 50%, .05); }
+  50% {  background-color: hsla(180, 100%, 50%, .05); }
+  60% {  background-color: hsla(216, 100%, 50%, .05); }
+  70% {  background-color: hsla(252, 100%, 50%, .05); }
+  80% {  background-color: hsla(288, 100%, 50%, .05); }
+  90% {  background-color: hsla(324, 100%, 50%, .05); }
+  to {   background-color: hsla(360, 100%, 50%, .05); }
 }
 
 @-moz-keyframes bgColorRotation {
   from { background-color: hsla(0, 100%, 50%, .05); }
-  50% { background-color: hsla(180, 100%, 50%, .05); }
-  to { background-color: hsla(360, 100%, 50%, .05); }
+  10% {  background-color: hsla(36, 100%, 50%, .05); }
+  20% {  background-color: hsla(72, 100%, 50%, .05); }
+  30% {  background-color: hsla(108, 100%, 50%, .05); }
+  40% {  background-color: hsla(144, 100%, 50%, .05); }
+  50% {  background-color: hsla(180, 100%, 50%, .05); }
+  60% {  background-color: hsla(216, 100%, 50%, .05); }
+  70% {  background-color: hsla(252, 100%, 50%, .05); }
+  80% {  background-color: hsla(288, 100%, 50%, .05); }
+  90% {  background-color: hsla(324, 100%, 50%, .05); }
+  to {   background-color: hsla(360, 100%, 50%, .05); }
 }
 
 @-o-keyframes bgColorRotation {
   from { background-color: hsla(0, 100%, 50%, .05); }
-  50% { background-color: hsla(180, 100%, 50%, .05); }
-  to { background-color: hsla(360, 100%, 50%, .05); }
+  10% {  background-color: hsla(36, 100%, 50%, .05); }
+  20% {  background-color: hsla(72, 100%, 50%, .05); }
+  30% {  background-color: hsla(108, 100%, 50%, .05); }
+  40% {  background-color: hsla(144, 100%, 50%, .05); }
+  50% {  background-color: hsla(180, 100%, 50%, .05); }
+  60% {  background-color: hsla(216, 100%, 50%, .05); }
+  70% {  background-color: hsla(252, 100%, 50%, .05); }
+  80% {  background-color: hsla(288, 100%, 50%, .05); }
+  90% {  background-color: hsla(324, 100%, 50%, .05); }
+  to {   background-color: hsla(360, 100%, 50%, .05); }
 }
 
 @keyframes bgColorRotation {
   from { background-color: hsla(0, 100%, 50%, .05); }
-  50% { background-color: hsla(180, 100%, 50%, .05); }
-  to { background-color: hsla(360, 100%, 50%, .05); }
+  10% {  background-color: hsla(36, 100%, 50%, .05); }
+  20% {  background-color: hsla(72, 100%, 50%, .05); }
+  30% {  background-color: hsla(108, 100%, 50%, .05); }
+  40% {  background-color: hsla(144, 100%, 50%, .05); }
+  50% {  background-color: hsla(180, 100%, 50%, .05); }
+  60% {  background-color: hsla(216, 100%, 50%, .05); }
+  70% {  background-color: hsla(252, 100%, 50%, .05); }
+  80% {  background-color: hsla(288, 100%, 50%, .05); }
+  90% {  background-color: hsla(324, 100%, 50%, .05); }
+  to {   background-color: hsla(360, 100%, 50%, .05); }
 }
